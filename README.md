@@ -77,8 +77,5 @@ Select a compatible Verilog simulator, such as Icarus Verilog, and run the testb
 
 ## Waveform Verification
 
-Add the saved waveform screenshot here after uploading it to this repository.
 
-<!-- Replace this comment with:
 ![Simulation Waveform](waveform_verification.png)
--->
